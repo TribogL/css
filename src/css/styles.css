@@ -1,0 +1,10 @@
+
+.encabezado{
+    display: flex;
+}
+h1{
+    text-align: center;
+    text-transform:capitalize;
+    color: blueviolet;
+    font-size: 100px;
+}
