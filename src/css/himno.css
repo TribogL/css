@@ -19,42 +19,12 @@ h1{
     text-transform: capitalize;
     text-justify: auto;
 }
-.coro-1{
+.amarillo{
+    color: yellow;
+}
+.azul{
     color: blue;
 }
-.coro-2{
+.rojo{
     color: red;
-}
-.estrofa-1 p{
-    color:yellow;
-}
-.estrofa-2 p{
-    color: blue;
-}
-.estrofa-3 p{
-    color: red;
-}
-.estrofa-4 p{
-    color:yellow;
-}
-.estrofa-5 p{
-    color: blue;
-}
-.estrofa-6 p{
-    color: red;
-}
-.estrofa-7 p{
-    color:yellow;
-}
-.estrofa-8 p{
-    color: blue;
-}
-.estrofa-9 p{
-    color: red;
-}
-.estrofa-10 p{
-    color:yellow;
-}
-.estrofa-11 p{
-    color: blue;
 }
