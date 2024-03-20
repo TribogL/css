@@ -16,6 +16,8 @@ h1{
 .himnocuerpo{
     text-align: center;
     font-size: 20px;
+    text-transform: capitalize;
+    text-justify: auto;
 }
 .coro-1{
     color: blue;
