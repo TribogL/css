@@ -32,7 +32,6 @@
     display: inline-block;
     border: 70px groove ghostwhite;
     border-bottom-color: red;
-    border-right-style: double;
 }
 p.uno {
     border-style: solid;
