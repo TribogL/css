@@ -13,23 +13,24 @@
      
 }
 .img-1{
+    display: inline-block;
     border: 20px solid tomato;
     border-radius: 30px;
 }
 .img-2{
+    display: inline-block;
     border: 50px double darkblue;
     border-top-color:aqua;
     border-bottom-color: aquamarine;
     border-left-color:cornflowerblue;
 }
 .img-3{
-    display:flex;
+    display: inline-block;
     border: 40px dotted lightcoral;
 }
 .img-4{
+    display: inline-block;
     border: 70px groove ghostwhite;
-    border-top-width: 130px;
-    border-right-width: 10px;
     border-bottom-color: red;
     border-right-style: double;
 }
