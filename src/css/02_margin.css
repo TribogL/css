@@ -1,0 +1,12 @@
+section{
+    border: 1px solid black;
+    display: inline-block;
+}
+.contenedor-imagen{
+    border: 1px solid  red;
+}
+.imagen{
+    
+    border: 1px solid red;
+    width: 400px;
+}
