@@ -23,6 +23,7 @@
     border-left-color:cornflowerblue;
 }
 .img-3{
+    display:flex ;
     border: 40px dotted lightcoral;
 }
 .img-4{
